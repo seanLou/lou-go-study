@@ -1,2 +1,2 @@
 # go-study
-study golfing
+Go 语言学习笔记
